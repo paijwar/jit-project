@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>BEFoldMenuViewController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JIT.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JITTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JITUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SideMenuController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0B4B19AA52DF7E5882DE7630227DC5FF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>418C04D7019265F8734D37C253939F2F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5115D63F273D5613945860B5DA9593CB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>AD03C2129119CB9127A5D838684D31E8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FA50ADD2E0742CCCF87869807BC2FC7A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

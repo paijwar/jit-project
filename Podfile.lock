@@ -1,0 +1,18 @@
+PODS:
+  - Backendless (3.0.46)
+  - BEFoldMenuViewController (0.1.0)
+  - SideMenuController (0.2.4)
+
+DEPENDENCIES:
+  - Backendless
+  - BEFoldMenuViewController
+  - SideMenuController
+
+SPEC CHECKSUMS:
+  Backendless: 0045a3190b8eefff3d3d25d75e206906bcc585d8
+  BEFoldMenuViewController: e943a8fda78b5e7c87b0fe2bfd277dd80637a9b5
+  SideMenuController: b463d2b3aa58e2afe57f57a07938fa9a647894ca
+
+PODFILE CHECKSUM: 9ad24937c64121935a22452ebaad50224baed237
+
+COCOAPODS: 1.2.1

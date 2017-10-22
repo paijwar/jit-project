@@ -1,0 +1,6 @@
+framework module Pods_JITTests {
+  umbrella header "Pods-JITTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

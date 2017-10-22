@@ -1,0 +1,6 @@
+framework module Pods_JIT {
+  umbrella header "Pods-JIT-umbrella.h"
+
+  export *
+  module * { export * }
+}

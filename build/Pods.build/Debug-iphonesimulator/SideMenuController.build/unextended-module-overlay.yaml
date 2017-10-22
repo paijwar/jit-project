@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/build/Debug-iphonesimulator/SideMenuController/SideMenuController.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/build/Pods.build/Debug-iphonesimulator/SideMenuController.build/unextended-module.modulemap',
+    }]
+  }]
+}

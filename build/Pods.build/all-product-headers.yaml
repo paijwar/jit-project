@@ -1,0 +1,48 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/build/Debug-iphonesimulator/BEFoldMenuViewController/BEFoldMenuViewController.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "BECustomSegue.h",
+          'external-contents': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/Pods/BEFoldMenuViewController/BEFoldMenuViewController/Classes/BECustomSegue.h"
+        },
+        {
+          'type': 'file',
+          'name': "BEFoldMenuViewController-Swift.h",
+          'external-contents': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/build/Debug-iphonesimulator/BEFoldMenuViewController/BEFoldMenuViewController.framework/Headers/BEFoldMenuViewController-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "BEFoldMenuViewController-umbrella.h",
+          'external-contents': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/Pods/Target Support Files/BEFoldMenuViewController/BEFoldMenuViewController-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "BEFoldMenuViewController.h",
+          'external-contents': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/Pods/BEFoldMenuViewController/BEFoldMenuViewController/Classes/BEFoldMenuViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+Frame.h",
+          'external-contents': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/Pods/BEFoldMenuViewController/BEFoldMenuViewController/Classes/UIView+Frame.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/build/Debug-iphonesimulator/BEFoldMenuViewController/BEFoldMenuViewController.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ctscts/Desktop/Sultan/JIT_Project/DemoApplication-master/build/Pods.build/Debug-iphonesimulator/BEFoldMenuViewController.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

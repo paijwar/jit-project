@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Director</key>
+	<dict>
+		<key>name</key>
+		<string>Ms. M. P. Wairagade</string>
+		<key>degree</key>
+		<string>B.Tech (Chemical)</string>
+		<key>pgdegree</key>
+		<string>MBA (Human Resource)</string>
+		<key>phd</key>
+		<string></string>
+		<key>designation</key>
+		<string>Director HR &amp; Admin</string>
+		<key>comment</key>
+		<string>Jhulelal Institute Of Technology was established in year 2008 with aim to impart quality education to young minds. Technological progress in the last few decades has helped to purge national barriers and create a global marketplace. Our objective is to develop confidence, self-motivation, research and problem solving skill sets and imbibe value education among our students. Top priority is given to discipline and knowledge and the application of the same for the progress of society as well as students.</string>
+	</dict>
+	<key>Principal</key>
+	<dict>
+		<key>name</key>
+		<string>Dr. Pramod Patil</string>
+		<key>degree</key>
+		<string>B.E (Electronics Engineering), Amravati University (1989)</string>
+		<key>pgdegree</key>
+		<string>M.E (Advanced Electronics), Amravati University (1997)</string>
+		<key>phd</key>
+		<string>Ph.D (Electronics Engineering), Amravati University (2007)</string>
+		<key>designation</key>
+		<string>Principal</string>
+		<key>comment</key>
+		<string>I&apos;m pleased to welcome you at JIT. one of the most happening Engineering colleges of Central India. The college established in 2008. has successfully completed 8 years of excellence &amp; has moulded innumerable of its students to become a thorough professional &amp; a better human being. Entering into this wonderful institute shall widen the horizons of your knowledge. The student-centric activities &amp; thorough grooming by a dedicated team of efficient teachers shall help you to reach the top of the world. The teacher mentors shall help you to extend the depth &amp; breadth of your knowledge &amp; I&apos;m sure that the T &amp; P team will surely go all the way to make you a more employable product. Have a great time &amp; a successful professional life.</string>
+	</dict>
+	<key>VicePrincipal</key>
+	<dict>
+		<key>name</key>
+		<string>Dr. Debashish Bhowmick</string>
+		<key>degree</key>
+		<string>B.Ed.(2000), RTM Nagpur University</string>
+		<key>pgdegree</key>
+		<string>MBA (2006) (HRM &amp; Personnel Mgnt, Corp.), National Institute of Management, Mumbai</string>
+		<key>phd</key>
+		<string>M.Phil (2007) &amp; Ph.D.(2011) in Physics, RTM Nagpur University</string>
+		<key>designation</key>
+		<string>Vice Principal</string>
+		<key>comment</key>
+		<string>It gives me pride &amp; satisfaction to welcome you to one of the fast progressing Engineering College in Central India. It is an institute where discipline and punctuality with conductive environment will provide quality education development in frontier areas of Engineering and Technology. With strong team work we would achieve technological excellence in a highly competitive environment around us. We have high class infrastructure with well equipped Laboratories, Class rooms, Library, Computer Centre, Cafeteria, Sports, transportation facilities. medical help on campus and a sprawling lawn. I&apos;m sure you all will enjoy your stay on the campus &amp;transform yourself in the best possible way for the benefit of society in general &amp; potential recruiters in particular. May God bless you all with all the wisdom &amp; successful profession.</string>
+	</dict>
+</dict>
+</plist>
